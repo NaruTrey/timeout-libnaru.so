@@ -1,0 +1,7 @@
+{
+ "uuid": "timeout@libnaru.so",
+ "name": "Time Out",
+ "description": "Automatically controlled time outs and breaks",
+ "icon": "deja-dup",
+ "localedir": "~/.local/share/locale"
+}
