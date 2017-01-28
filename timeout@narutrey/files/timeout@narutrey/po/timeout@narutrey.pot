@@ -1,15 +1,20 @@
-# Cinnamon Applet timeout@libnaru.so
+# Cinnamon Applet timeout@narutrey
 # Copyright (C) 2016 Naru Trey
-# This file is distributed under the same license as the timeout@libnaru.so package.
+# This file is distributed under the same license as the timeout@narutrey package.
 # Naru Trey <contact@libnaru.so>, 2016.
+
 #
 #, fuzzy
 msgid   ""
-msgstr  "Project-Id-Version: timeout@libnaru.so 1.0\n"
+msgstr  "Project-Id-Version: timeout@narutrey 1.0\n"
         "Report-Msgid-Bugs-To: contact@libnaru.so\n"
-        "POT-Creation-Date: 2016-03-04 14:42+0400\n"
+        "POT-Creation-Date: 2017-01-28 13:47+0400\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
         "MIME-Version: 1.0\n"
-        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 #: applet.js:210
@@ -80,22 +85,6 @@ msgstr  ""
 msgid   "Appearance"
 msgstr  ""
 
-# Manual added
-
-#: settings-schema.json:72
-msgid   "Only Icon"
-msgstr  ""
-
-#: settings-schema.json:73
-msgid   "Only Label"
-msgstr  ""
-
-#: settings-schema.json:74
-msgid   "Icon and Label"
-msgstr  ""
-
-# End manual added
-
 #: settings-schema.json:76
 msgid   "Display panel"
 msgstr  ""
@@ -111,3 +100,19 @@ msgstr  ""
 #: metadata.json:4
 msgid   "Automatically controlled time outs and breaks"
 msgstr  ""
+
+# Manual added
+
+#: settings-schema.json:72
+msgid   "Only Icon"
+msgstr  ""
+	
+#: settings-schema.json:73
+msgid   "Only Label"
+msgstr  ""
+
+#: settings-schema.json:74
+msgid   "Icon and Label"
+msgstr  ""
+	
+# End manual added

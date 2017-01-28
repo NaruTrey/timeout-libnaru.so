@@ -10,7 +10,7 @@ const PopupMenu = imports.ui.popupMenu;
 const Settings = imports.ui.settings;
 const St = imports.gi.St;
 
-const UUID = "timeout@libnaru.so";
+const UUID = "timeout@narutrey";
 
 Gettext.bindtextdomain(UUID, GLib.get_home_dir() + "/.local/share/locale");
 

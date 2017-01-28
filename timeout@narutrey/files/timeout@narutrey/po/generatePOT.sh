@@ -1,7 +1,7 @@
 #!/bin/sh
 
 COPYRIGHT='NaruTrey'
-UUID='timeout@libnaru.so'
+UUID='timeout@narutrey'
 NAME=$UUID
 VERSION=1.0
 EMAIL='contact@libnaru.so'
