@@ -2,6 +2,6 @@
  "uuid": "timeout@narutrey",
  "name": "Time Out",
  "description": "Automatically controlled time outs and breaks",
- "icon": "deja-dup",
+ "icon": "gnome-break-timer",
  "localedir": "~/.local/share/locale"
 }
